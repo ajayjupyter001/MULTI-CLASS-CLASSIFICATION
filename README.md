@@ -48,7 +48,8 @@ pyplot.show()
 ```
 
 ## Output:
-![b1](https://user-images.githubusercontent.com/102233600/164490597-2625341b-497c-476e-a5d7-02b4607ae9d7.png)
+![l](https://user-images.githubusercontent.com/102233600/164490829-c3fa7c99-af64-42ea-9a91-e049a835d59d.png)
+
 
 
 
